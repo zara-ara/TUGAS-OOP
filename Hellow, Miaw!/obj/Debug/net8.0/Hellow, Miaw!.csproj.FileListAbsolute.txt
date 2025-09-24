@@ -1,0 +1,14 @@
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\bin\Debug\net8.0\Hellow, Miaw!.exe
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\bin\Debug\net8.0\Hellow, Miaw!.deps.json
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\bin\Debug\net8.0\Hellow, Miaw!.runtimeconfig.json
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\bin\Debug\net8.0\Hellow, Miaw!.dll
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\bin\Debug\net8.0\Hellow, Miaw!.pdb
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\obj\Debug\net8.0\Hellow, Miaw!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\obj\Debug\net8.0\Hellow, Miaw!.AssemblyInfoInputs.cache
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\obj\Debug\net8.0\Hellow, Miaw!.AssemblyInfo.cs
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\obj\Debug\net8.0\Hellow, Miaw!.csproj.CoreCompileInputs.cache
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\obj\Debug\net8.0\Hellow, Miaw!.dll
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\obj\Debug\net8.0\refint\Hellow, Miaw!.dll
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\obj\Debug\net8.0\Hellow, Miaw!.pdb
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\obj\Debug\net8.0\Hellow, Miaw!.genruntimeconfig.cache
+C:\Users\NUR ZAHRA AFIFAH\source\repos\Hellow, Miaw!\obj\Debug\net8.0\ref\Hellow, Miaw!.dll
